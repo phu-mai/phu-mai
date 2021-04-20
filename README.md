@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://github.com/https://github.com/phu-mai">
+<a href="https://github.com/phu-mai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/phu-mai&hide=html,css&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/https://github.com/phu-mai">
+<a href="https://github.com/phu-mai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/phu-mai&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
 </a>
 
