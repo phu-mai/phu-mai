@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hello there 👋
 
 ![](https://github.com/phu-mai/phu-mai/blob/main/banner.png)
-
-Welcome to my Github profile page where you can get to know me...
-
-**phu-mai/phu-mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,10 +15,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/phu-mai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/phu-mai&hide=html,css&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu-mai&hide=html,css&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/phu-mai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/phu-mai&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phu-mai&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
 </a>
 
 <hr>
@@ -35,4 +31,6 @@ Here are some ideas to get you started:
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=phu-mai" alt="visitor badge"/>       
+</p>
+
 </p>
