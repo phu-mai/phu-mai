@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧐 I would like to explore new technologies and building large scale systems.
-💼 I'm currently working as Senior DevOps Engineer in Vietnam.
-🎓 Bachelor of Engineering in Computer Science.
+🧐 I would like to explore new technologies and building large scale systems.  
+💼 I'm currently working as Senior DevOps Engineer in Vietnam.  
+🎓 Bachelor of Engineering in Computer Science.  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
