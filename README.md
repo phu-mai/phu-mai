@@ -1,13 +1,14 @@
 ![Banner](https://github.com/phu-mai/phu-mai/blob/main/banner.jpg)
 ><h2>Hey there! I'm Phu Minh</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=phu-mai" alt="visitor badge" /> </p>
 
 🧐 I would like to explore new technologies and building large scale systems.  
 💼 I'm currently working as Senior DevOps Engineer in Vietnam.  
 🎓 Bachelor of Engineering in Computer Science.  
 
-### 🛠 &nbsp;Tech Stack
+***
+**🛠 &nbsp;Tech Stack**
 
 - Configuration & Provisioning:  &nbsp;
   ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
@@ -27,7 +28,8 @@
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+***
+**🛠 &nbsp;GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/phu-mai">
@@ -36,7 +38,8 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+***
+**🛠 &nbsp;Connect with Me**
 
 <p align="center">
 <a href="https://linkedin.com/in/m-phu"><img src="https://img.shields.io/badge/-Minh%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
