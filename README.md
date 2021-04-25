@@ -3,10 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧐 Interested in building large scale systems.
-🎓 Bachelor of Engineering in Computer Science.
-💼 Senior DevOps Engineer in Viet Nam.
-🌱 Love learning new technologies.
+🧐 Interested in building large scale systems.  
+🎓 Bachelor of Engineering in Computer Science.  
+💼 Senior DevOps Engineer in Viet Nam.  
+🌱 Love learning new technologies.  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
