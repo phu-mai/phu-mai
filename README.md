@@ -10,22 +10,22 @@
 ### 🛠 &nbsp;Tech Stack
 
 - Configuration & Provisioning:  &nbsp;
-  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=black)
-  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=black)
+  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 
 - Orchestration & Management:  &nbsp;
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=black)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=black)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 - Databases:  &nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=black)
-  ![Postgres](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=black")
-  ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=black)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white")
+  ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 - Languages: &nbsp;
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=black)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black)
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
