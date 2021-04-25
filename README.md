@@ -1,18 +1,14 @@
-# Hello there 👋
+![Banner](https://github.com/phu-mai/phu-mai/blob/main/banner.png)
+><h2>Hey there! I'm Phu Minh</h2>
 
-![](https://github.com/phu-mai/phu-mai/blob/main/banner.png)
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+🧐 Interested in building large scale systems.
+🎓 Bachelor of Engineering in Computer Science.
+💼 Senior DevOps Engineer in Viet Nam.
+🌱 Love learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/phu-mai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu-mai&hide=html,css&theme=radical&layout=compact" />
@@ -22,15 +18,10 @@ Here are some ideas to get you started:
 </a>
 
 <hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/m-phu/"><img src="https://image.flaticon.com/icons/png/32/174/174857.png"/></a>
-</p>
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=phu-mai" alt="visitor badge"/>       
-</p>
-
+<a href="https://linkedin.com/in/m-phu"><img src="https://img.shields.io/badge/-Minh%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:phu.maiminh@gmail.com"><img src="https://img.shields.io/badge/-phu.maiminh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
