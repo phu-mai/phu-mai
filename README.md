@@ -31,11 +31,9 @@
 ***
 **🛠 &nbsp;GitHub Analytics**
 
-<p align="center">
-<a href="https://github.com/phu-mai">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phu-mai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phu-mai&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align = "center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=phu-mai&show_icons=true&theme=dark&locale=en&hide_border=true" alt="phu-mai" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu-mai&theme=dark&hide_border=true&layout=compact">
 </p>
 
 ***
