@@ -23,7 +23,7 @@
   ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-  - Languages: &nbsp;
+- Languages: &nbsp;
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
