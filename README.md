@@ -41,5 +41,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/m-phu"><img src="https://img.shields.io/badge/-Minh%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:phu.maiminh@gmail.com"><img src="https://img.shields.io/badge/-phu.maiminh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:phu.maiminh@gmail.com"><img src="https://img.shields.io/badge/-Minh%20Phu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
