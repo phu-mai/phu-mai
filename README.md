@@ -1,4 +1,4 @@
-![Banner](https://github.com/phu-mai/phu-mai/blob/main/banner.png)
+![Banner](https://github.com/phu-mai/phu-mai/blob/main/banner.jpg)
 ><h2>Hey there! I'm Phu Minh</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
